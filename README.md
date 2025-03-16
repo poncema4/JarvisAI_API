@@ -3,10 +3,11 @@ This tool allows you to talk through your microphone and communicate with OpenAI
 
 ## Prerequisites
 
-- ** pip install speech_recognition**
-- ** pip install pyttsx3**
-- ** pip install dotenv**
-- ** pip install openai**
+- **pip install speech_recognition**
+- **pip install pyttsx3**
+- **pip install dotenv**
+- **pip install openai**
+- **OPENAI KEY**
 
 ## Installation
 
